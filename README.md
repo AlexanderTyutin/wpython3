@@ -2,10 +2,10 @@
 Routines for working with Wordpress from Python3
 This repo is a result of my work with Wordpress from Python3
 
-* wpublisher.py - class for publishing posts to Wordpress site via xmlrpc.php
+* wpublisher.py - class for publishing posts to Wordpress site via xmlrpc.php with Python3
 
-# ============================================================================
+# wpython3
 Автоматизация рутинных операций для работы с Wordpress из Python3
 Появился в результате моей работы с Wordpress
 
-* wpublisher.py - класс для публикации постов Wordpress посредством xmlrpc.php
+* wpublisher.py - класс для публикации постов Wordpress посредством xmlrpc.php из скриптов на Python3
